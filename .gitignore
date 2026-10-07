@@ -1,0 +1,16 @@
+.env
+.env.*
+*.pem
+*.key
+*.p12
+.aws/
+aws-credentials*
+credentials.json
+secrets.json
+*.log
+logs/
+*.tmp
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
